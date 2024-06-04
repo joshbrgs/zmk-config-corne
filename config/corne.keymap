@@ -34,8 +34,8 @@
 //                    | CTRL |     | SPC |   | ENT |     | ESC |
                         bindings = <
    &kp TAB    &kp N1       &kp N2       &kp N3       &kp N4       &kp N5         &kp N6   &kp N7   &kp N8 &kp N9    &kp N0 &kp BSPC
-   &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4   &kp LEFT &kp DOWN &kp UP &kp RIGHT &rgb_ug RGB_COLOR_HSB(39.76, 0.87, 0.62) &rgb_ug RGB_TOG
-   &kp LSHIFT   &trans       &trans       &trans       &trans       &trans         &rbg_ug RGB_COLOR_HSB(125.81, 0.61, 0.80)   &rgb_ug RBG_COLOR_HSB(49.66, 0.45, 0.87)   &rgb_ug RGB_COLOR_HSB(186.67, 0.71, 0.83) &rgb_ug RGB_BRD    &rgb_ug RGB_BRI &soft_off
+   &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4   &kp LEFT &kp DOWN &kp UP &kp RIGHT &rgb_ug RGB_COLOR_HSB(358, 53, 23) &rgb_ug RGB_TOG
+   &kp LSHIFT   &trans       &trans       &trans       &trans       &trans         &rbg_ug RGB_COLOR_HSB(126, 26, 92)   &rgb_ug RBG_COLOR_HSB(50, 12, 93)   &rgb_ug RGB_COLOR_HSB(187, 26, 95) &rgb_ug RGB_BRD    &rgb_ug RGB_BRI &soft_off
                                     &kp LCTRL     &trans       &kp SPACE      &kp RET  &trans   &kp ESC
                         >;
                 };
