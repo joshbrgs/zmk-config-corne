@@ -12,15 +12,15 @@
 #   - board: nice_nano//zmk
 #     shield: reviung41
 #   - board: nice_nano//zmk
-#     shield: corne_left
+#     shield: corne_left nice_oled
 #     cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
 #     artifact-name: corne_left_with_logging
 #
 ---
 include:
   - board: nice_nano//zmk
-    shield: corne_left
+    shield: corne_left nice_oled
   - board: nice_nano//zmk
-    shield: corne_right
+    shield: corne_right nice_oled
   - board: nice_nano//zmk
     shield: settings_reset
